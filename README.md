@@ -1,1 +1,1 @@
-# BUAN-6340-Programming-Data-Science
+# BUAN_6340_PDS_notes
